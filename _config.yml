@@ -11,6 +11,8 @@ social:
   github: jpeterburs
   linkedin: jpeterburs
 
+permalink: /:title
+
 theme_setting:
   nav_pages:
     - about.md
