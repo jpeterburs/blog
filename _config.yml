@@ -1,15 +1,11 @@
 ---
-title: Jonas personal blog
-description:
+title: Jonas' CodeCanvas
+description: Junior Softwareentwickler aus Kreis Warendorf
 email:
 baseurl: "/blog"
 url: "https://jpeterburs.de"
 
-author: Jonas
-
-social:
-  github: jpeterburs
-  linkedin: jpeterburs
+author: Jonas Peterburs
 
 permalink: /:title
 
